@@ -2,7 +2,7 @@
 Basic AI concepts, models and algorithms.
 
 ## Model:
-1. Simple reflex model;
-2. Rules based model;
-3. Goal based model;
-4. Utility based model.
+1. Simple reflex agent;
+2. Model based agent;
+3. Goal based agent;
+4. Utility based agent.
