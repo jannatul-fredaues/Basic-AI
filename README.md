@@ -6,3 +6,5 @@ Basic AI concepts, models and algorithms.
 2. Model based agent;
 3. Goal based agent;
 4. Utility based agent.
+
+## Algo
