@@ -9,3 +9,10 @@ Basic AI concepts, models and algorithms.
 
 ## Algorithom
 
+### Uniform search
+1. BFS;
+2. DFS;
+3. DLS;
+4. IDS;
+5. Bidrictional;
+
