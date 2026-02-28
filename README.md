@@ -7,4 +7,5 @@ Basic AI concepts, models and algorithms.
 3. Goal based agent;
 4. Utility based agent.
 
-## Algo
+## Algorithom
+
