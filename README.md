@@ -16,3 +16,8 @@ Basic AI concepts, models and algorithms.
 4. IDS;
 5. Bidrictional;
 
+### Informed Search
+1. Greedy Search;
+2. A* Search;
+3. Hill climing;
+4. Beam Search.
