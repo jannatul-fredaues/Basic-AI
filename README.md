@@ -16,7 +16,7 @@ Basic AI concepts, models and algorithms.
 4. IDS;
 5. Bidrictional;
 
-### Informed Search
+### Informed Search (Global)
 1. Greedy Search;
 2. A* Search;
 3. Hill climing;
