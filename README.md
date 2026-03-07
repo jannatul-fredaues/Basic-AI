@@ -21,3 +21,5 @@ Basic AI concepts, models and algorithms.
 2. A* Search;
 3. Hill climing;
 4. Beam Search.
+
+## Game Play
